@@ -1,0 +1,8 @@
+baseURL = "https://hyunyoung2.github.io/hyunyoung2-customizing-version-hugo-example/"
+languageCode = "en-us"
+title = "The customized version of hugo example"
+
+
+theme = "docdock"
+themeDir = "themes"
+publishDir = "docs"
